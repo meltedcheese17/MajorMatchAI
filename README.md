@@ -17,6 +17,9 @@ cosine similarity.
 - **Dark modern UI** — custom CSS with gradient accents
 
 ---
+## Access website on Browser
+### URL: https://majormatchai-v5tgymx6vqnmhgt69rnabf.streamlit.app/
+---
 
 ## 🚀 How to Run Locally (Step-by-Step)
 
